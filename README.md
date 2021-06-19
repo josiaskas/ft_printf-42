@@ -1,5 +1,5 @@
 # FT_PRINTF
-recoder printf de la libraire standar sans utiliser les autres fonction de la lib c.
+recoder printf de la libraire standard sans utiliser les autres fonction de la lib c.
 > Fonction Autorisee : malloc, free, write
 > Gestion des arguments multiples : va_start, va_arg, va_copy
 
